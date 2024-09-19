@@ -1,7 +1,3 @@
-
-
-Here's an enhanced version of the "About Me" section for your README:
-
 💫 About Me:
 👋 Hello! I’m Rydham Gupta, currently pursuing a B.Tech in Computer Science and Engineering at Graphic Era Deemed to be University. I am deeply passionate about harnessing the power of Machine Learning to drive innovative solutions.
 
