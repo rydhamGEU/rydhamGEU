@@ -38,4 +38,4 @@
 - **Facial Recognition**: [rydhamGEU/Facial-Recognition](https://github.com/rydhamGEU/Facial-Recognition)
 - **Dice Rolling Game**: [rydhamGEU/Dice_rolling_game_python](https://github.com/rydhamGEU/Dice_rolling_game_python)
 - **Big Integer Library**: [rydhamGEU/BigInteger_Rydham](https://github.com/rydhamGEU/BigInteger_Rydham)
-- **Weather Application**: [rydhamGEU/Weather Application](https://github.com/rydhamGEU/)
+- **Weather Application**: [rydhamGEU/Weather Application](https://github.com/rydhamGEU/Weather-Website)
