@@ -75,7 +75,7 @@
 ## 📂 Featured Projects
 
 - **PolicyGuard AI Compliance Automation Platform**: Built an AI compliance platform using FastAPI, LangGraph, and LLM models for automated listing moderation. Implemented RAG retrieval with pgvector embeddings, achieving 30% automation and reducing handling time by 50%.
-- **[CodeCollab](https://github.com/rydhamGEU/CodeCollab)**: Developed a real-time coding platform for interviews capable of handling 100+ concurrent users per room. Achieved <200 ms sync using CodeMirror 6 and WebSockets, and built a scalable backend with Node.js and MongoDB to handle 10K+ submissions.
+- **[CodeCollab](https://frontend-ten-lyart-60.vercel.app)**: Developed a real-time coding platform for interviews capable of handling 100+ concurrent users per room. Achieved <200 ms sync using CodeMirror 6 and WebSockets, and built a scalable backend with Node.js and MongoDB to handle 10K+ submissions.
 - **[Sentiment Analysis](https://github.com/rydhamGEU/Sentiment-Analysis)**
 - **[Handwritten Digit Recognition](https://github.com/rydhamGEU/Digit_recognition_using_MATLAB)**
 - **[Facial Recognition](https://github.com/rydhamGEU/Facial-Recognition)**
