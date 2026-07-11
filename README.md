@@ -1,10 +1,10 @@
 # 💫 About Me
 
-👋 Hello! I’m Rydham Gupta, a Software Development Engineer at Hashedin by Deloitte, and currently completing my B.Tech in Computer Science and Engineering at Graphic Era Deemed to be University (2022-2026).
+👋 Hello! I’m Rydham Gupta, a Software Development Engineer at Hashedin by Deloitte, and a recent B.Tech Graduate in Computer Science and Engineering at Graphic Era Deemed to be University (2022-2026).
 
 💻 I specialize in full-stack development and GenAI multi-agent systems, with robust expertise in Python, C++, and Java, complemented by modern frameworks like Angular, React, Spring Boot, and FastAPI. I enjoy engineering scalable backend services and engineering RAG pipelines to drive automation.
 
-🌟 As an avid problem-solver, I have conquered 1000+ DSA problems on LeetCode and proudly maintain a 650+ days streak on Daily Challenges. My journey in tech is fueled by a commitment to continuous learning and pushing the boundaries of what’s possible.
+🌟 As an avid problem-solver, I have conquered 1000+ DSA problems on LeetCode and proudly maintain a 700+ days streak on Daily Challenges. My journey in tech is fueled by a commitment to continuous learning and pushing the boundaries of what’s possible.
 
 🤝 I am eager to connect with fellow tech enthusiasts and professionals. Let’s build something amazing together!
 
