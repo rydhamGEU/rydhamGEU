@@ -39,8 +39,9 @@
 * **Amazon ML Summer School 2025**: [Selected among Top 5% applicants](https://drive.google.com/file/d/1aixS2EdW66I1RFt7laQUiJHA6HiOAhNH/view?usp=sharing).
 * **Certifications**: 
   * [Anthropic Claude Certified Architect Foundations (CCA-F)](https://www.credly.com/badges/fa8fd113-5dc3-4cc1-b0d2-925c486338b9/)
-  * [Google Data Analytics Course](https://drive.google.com/file/d/1MAAvQiEdFLio4cMmpB3lkFjzNGRh0Ak8/view?usp=sharing)
-  * [PwC Launchpad - Analytics Insights](https://drive.google.com/file/d/1ZiT4eYiNY3EMrv7dgCn0C51146ULEN-p/view?usp=sharing)
+  * [Infosys ReactJS](https://drive.google.com/file/d/1MAAvQiEdFLio4cMmpB3lkFjzNGRh0Ak8/view?usp=sharing)
+  * [Google Data Analytics Course](https://drive.google.com/file/d/1ZiT4eYiNY3EMrv7dgCn0C51146ULEN-p/view?usp=sharing)
+  * [PwC Launchpad - Analytics Insights](https://drive.google.com/file/d/1t2MwjK5c6PvgY3NxNDI7xRsseLD0TJW8/view)
 
 ---
 
